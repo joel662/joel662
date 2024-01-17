@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joel662
-- 👀 I’m interested in being a software engineer
-- 🌱 I’m currently learning studying in Algoma university
+- 👀 I’m interested in being a full stack developer
+- 🌱 I’m a graduate from Algoma university
 - 📫 How to reach me -> joelsaji662@gmail.com
 
 <!---
