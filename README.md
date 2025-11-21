@@ -8,34 +8,16 @@
 
 ## 🚀 About Me
 
-I am a **versatile Full Stack Developer** and **Master’s student in Computer Science**, passionate about building scalable applications, intelligent systems, and immersive interactive experiences.
-
-My work spans across several domains:
+I’m a **Full Stack Developer** and **Master’s student in Computer Science** passionate about building scalable apps, intelligent systems, and immersive interactive experiences.
 
 ### 💻 Full Stack Development
-- Building responsive, high-performance web applications  
-- Designing REST APIs using **Node.js, Express, and TypeScript**  
-- Creating dynamic UIs with **React, Angular, Next.js**  
-- Working with databases like **MySQL, PostgreSQL, MongoDB**  
-- Crafting clean, reusable front-end components with **HTML, CSS, Tailwind**
+Experienced with **React, Angular, Node.js, Express, TypeScript**, and databases like **MySQL, PostgreSQL, MongoDB**. I enjoy creating fast, user-friendly, and maintainable web applications.
 
-### 🎮 Game Development & VR/AR
-- Creating immersive experiences in **Unreal Engine** and **Unity**  
-- Implementing VR locomotion, grabbing systems, physics interactions & grappling mechanics  
-- Building VR prototypes, interactive systems, and converting FPS projects to VR  
-- Working with **OpenXR**, VR Expansion Plugin, and custom interaction blueprints  
-- Developing a large-scale VR digital twin simulating environment behavior, sustainability systems & dynamic interactions
+### 🎮 Game Dev & VR/AR
+Skilled in **Unreal Engine, Unity, OpenXR**, and the VR Expansion Plugin. I build VR locomotion, grabbing systems, physics interactions, grappling mechanics, and large-scale VR simulations such as digital twins.
 
-### ☁️ Cloud, DevOps & System Design
-- Deploying apps on **AWS** and **Google Cloud**  
-- Working with Pub/Sub-based architectures, microservices & CI/CD pipelines  
-- Creating automation workflows, cloud functions & scalable backend services  
-- Designing structured, modular architectures suitable for real-world production systems
-
----
-
-I love solving complex problems, building polished user experiences, and experimenting with new technologies.  
-Always learning. Always improving. Always building.
+### ☁️ Cloud & DevOps
+Familiar with **AWS, Google Cloud, CI/CD**, Pub/Sub architecture, automation workflows, and scalable backend systems.
 
 ---
 
@@ -84,63 +66,6 @@ Always learning. Always improving. Always building.
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenXR](https://img.shields.io/badge/OpenXR-92278F?style=for-the-badge&logo=openxr&logoColor=white)
 
----
-
-## 🏗️ Featured Projects
-
-### 🕶️ **VR Digital Twin – Sustainable Green Hotel Simulation**
-A large-scale VR digital twin project that simulates the physical layout, airflow, water flow, temperature dynamics, and energy efficiency of a proposed sustainable hotel near Toronto Pearson Airport.
-
-**Tech & Responsibilities**
-- Built in **Unity** with immersive interactions, dynamic UI, and optimized rendering  
-- Integrated **AI-driven 3D model generation** pipelines to convert architect 2D designs into 3D scenes  
-- Designed player navigation, teleportation, and interactive environment elements  
-- Implemented real-time simulation behavior for sustainability features (green roofs, solar, HVAC, airflow logic)
-
----
-
-### 🎮 **VR Interaction Systems – Unreal Engine (VR Expansion Plugin)**
-A collection of VR mechanics developed in Unreal Engine for immersive gameplay:
-
-**Key Mechanics**
-- **VR Grabbing System** — physics-based grabbing using VR Expansion Plugin  
-- **VR Movement & Head Tracking** — smooth locomotion, player height adjustment, and controller-based rotations  
-- **Grappling Hook Mechanic** — custom physics-based system that pulls the player when the Meta controller trigger is pressed  
-- **Custom Interaction Blueprints** — door handles, levers, climbable objects, and distance-based interaction cues  
-
-This work is part of upgrading a traditional UE first-person project into a fully immersive VR experience.
-
----
-
-### 🧱 **VR Construction Interaction Tool**
-A utility that allows dragging, dropping, and generating custom JSON-based diagrammatic objects in VR for prototyping various interactive elements.
-
-**Features**
-- Real-time diagram rendering using PixiJS-based logic adapted into VR  
-- Right-click (or VR equivalent) JSON input popup to render icons, shapes, and block elements  
-- Foundation for building VR educational and design tools  
-
----
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joel662&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel662&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Just for Fun)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
